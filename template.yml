@@ -1,5 +1,5 @@
 # The 'id' should be a string that uniquely identifies your template
-id: ''
+id: 'sdkTrialD3'
 name: Untitled template
 description: A Flourish template
 author: Unknown author
@@ -56,11 +56,11 @@ data:
     key: x
     type: column
     column: 'data::A'
-    datatype: string
+    data_type: string
   - name: Y values
     description: Y axis values
     dataset: values
     key: 'y'
     type: column
     column: 'data::B'
-    datatype: number
+    data_type: number
